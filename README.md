@@ -18,7 +18,7 @@ This is a simple Discord bot that responds to various commands, including handli
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/my-discord-bot.git
+    git clone https://github.com/Exched/Discord_ai.git
     cd my-discord-bot
     ```
 
